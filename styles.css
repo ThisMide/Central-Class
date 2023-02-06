@@ -15,14 +15,14 @@ body{
 
 .screen{
       font-size: 112px;
-      background: darkblue;
-      color: white;
+      background: rgb(0, 0, 151);
+      color: rgb(253, 253, 253);
 }
 
 .clear{
       font-size: 112px;
-      background: red;
-      color: white;
+      background: rgb(245, 2, 2);
+      color: rgb(253, 253, 253);
 }
 
 .buttons{
